@@ -49,13 +49,14 @@
 
 ### 🗄️ Databases
 <p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
+
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 </p>
@@ -111,8 +112,8 @@
 
 | Project | Tech Stack | Demo |
 |--------|------------|------|
-| Portfolio Website | React, TailwindCSS | [Live](https://devkashifrehman.github.io/) |
-| Food Carousel App | React, CSS, JS | [Repo](https://github.com/devKashifrehman/FoodCarousel) |
+| Portfolio Website | HTML, CSS | [Live](https://devkashifrehman.github.io/Portfolio/) |
+| Al Rehman Resturant App | React, CSS, JS | [Live](https://devkashifrehman.github.io/restaurant-web/) |
 | Pharma Dashboard | React, ASP.NET, MySQL | [Repo](https://github.com/devKashifrehman/PharmaDashboard) |
 
 ---
