@@ -48,16 +48,16 @@
 </p>
 
 ### 🗄️ Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠 Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 </p>
 
 ---
