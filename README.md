@@ -51,9 +51,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
 </p>
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 ### 🛠 Tools
 
