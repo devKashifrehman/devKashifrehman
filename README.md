@@ -38,18 +38,21 @@
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,cs,php,html,css" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,cs,php,html,css" />
 </p>
 
 ### ⚡ Frameworks & Libraries
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠 Tools
@@ -90,8 +93,9 @@
 
 # 📈 Contribution Graph
 <p align="center">
-<img src="https://raw.githubusercontent.com/your-username/assets/main/contribution-graph.png" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKashifrehman&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 ---
 
