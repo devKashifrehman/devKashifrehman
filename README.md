@@ -2,6 +2,13 @@
 <h3 align="center">🚀 Full Stack Web Developer | React & .NET | PHP Enthusiast</h3>
 
 <p align="center">
+<!-- Animated Tech Badges -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&animation=spin" alt="React"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white&animation=spin" alt=".NET"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&animation=spin" alt="Firebase"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;ASP.NET+Developer;PHP+Developer;Always+Learning+New+Tech"/>
 </p>
 
@@ -10,7 +17,7 @@
 # 💫 About Me
 
 💻 Passionate **Web Developer** building modern, responsive and scalable web apps.  
-⚡ Experienced with **React.js, ASP.NET, C#, PHP, JavaScript, HTML, CSS, Bootstrap, TailwindCSS & MySQL**.  
+⚡ Experienced with **React.js, ASP.NET, C#, PHP, JavaScript, HTML, CSS, Bootstrap, TailwindCSS, MySQL & Firebase**.  
 📚 Strong believer in **continuous learning & clean code**.  
 🎯 Goal: Become a **Professional Full Stack Developer** & deliver impactful digital products.  
 
@@ -31,39 +38,45 @@
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,cs,php,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,cs,php,html,css" width="50" height="50"/>
 </p>
 
 ### ⚡ Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind" width="50" height="50"/>
 </p>
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase" width="50" height="50"/>
 </p>
 
 ### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" width="50" height="50"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Animated with Shields.io)
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devKashifrehman&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKashifrehman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/GitHub_Stats-View-00BFFF?style=for-the-badge&logo=github&logoColor=white&animation=wave" alt="GitHub Stats"/>
+
+<!-- Top Languages Animated -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&animation=spin" alt="C#"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=spin" alt="PHP"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin" alt="CSS"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Streak (Animated)
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devKashifrehman&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/GitHub_Streak-🔥-FF4500?style=for-the-badge&logo=github&logoColor=white&animation=pulse"/>
 </p>
 
 ---
@@ -77,14 +90,15 @@
 
 # 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKashifrehman&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/your-username/assets/main/contribution-graph.png" alt="Contribution Graph"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies (Shields.io Animated)
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devKashifrehman&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/badge/GitHub-Trophies-FF69B4?style=for-the-badge&logo=github&logoColor=white&animation=spin"/>
+<img src="https://img.shields.io/badge/Top_Languages-View-00BFFF?style=for-the-badge&logo=github&logoColor=white&animation=spin"/>
 </p>
 
 ---
