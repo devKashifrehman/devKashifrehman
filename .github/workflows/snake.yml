@@ -1,0 +1,22 @@
+name: Snake Animation
+
+# Controls when the workflow will run
+on:
+  # Runs daily at 00:00 UTC and also allows manual trigger
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v4
+
+      # Generate GitHub contribution snake
+      - name: Generate contribution graph snake
+        uses: platane/snk@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
